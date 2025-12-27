@@ -1,5 +1,3 @@
-{
-  "name": "natalpresent",
-  "compatibility_date": "2025-12-27",
-  "pages_build_output_dir": "./dist"
-}
+name = "natalpresent"
+pages_build_output_dir = "./dist"
+compatibility_date = "2025-12-27"
