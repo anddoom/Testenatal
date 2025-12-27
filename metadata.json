@@ -1,0 +1,5 @@
+{
+  "name": "Private Gallery Access",
+  "description": "A secure portal to view personalized image galleries using unique passcodes.",
+  "requestFramePermissions": []
+}
